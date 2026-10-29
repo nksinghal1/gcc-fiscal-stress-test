@@ -1,0 +1,49 @@
+country,variant,p_exhausted_10y
+SAU,"price model: AR(1), long-run $60",0.3098
+SAU,"price model: AR(1), long-run $85",0.2171
+SAU,"price model: random walk, zero drift",0.24675
+ARE,"price model: AR(1), long-run $60",0.0013
+ARE,"price model: AR(1), long-run $85",0.00035
+ARE,"price model: random walk, zero drift",0.0042
+QAT,"price model: AR(1), long-run $60",0.0214
+QAT,"price model: AR(1), long-run $85",0.0133
+QAT,"price model: random walk, zero drift",0.0319
+KWT,"price model: AR(1), long-run $60",0.0
+KWT,"price model: AR(1), long-run $85",0.0
+KWT,"price model: random walk, zero drift",0.0
+OMN,"price model: AR(1), long-run $60",0.47225
+OMN,"price model: AR(1), long-run $85",0.37025
+OMN,"price model: random walk, zero drift",0.35955
+BHR,"price model: AR(1), long-run $60",0.89585
+BHR,"price model: AR(1), long-run $85",0.83515
+BHR,"price model: random walk, zero drift",0.7601
+SAU,base,0.25605
+SAU,GDP growth 0%,0.2174
+SAU,GDP growth 5%,0.2821
+SAU,asset return 3%,0.2174
+SAU,no parameter uncertainty,0.2563
+ARE,base,0.00085
+ARE,GDP growth 0%,0.0002
+ARE,GDP growth 5%,0.00195
+ARE,asset return 3%,0.0002
+ARE,no parameter uncertainty,0.0001
+QAT,base,0.01635
+QAT,GDP growth 0%,0.0091
+QAT,GDP growth 5%,0.02275
+QAT,asset return 3%,0.0091
+QAT,no parameter uncertainty,0.0033
+KWT,base,0.0
+KWT,GDP growth 0%,0.0
+KWT,GDP growth 5%,0.0
+KWT,asset return 3%,0.0
+KWT,no parameter uncertainty,0.0
+OMN,base,0.41465
+OMN,GDP growth 0%,0.39155
+OMN,GDP growth 5%,0.42745
+OMN,asset return 3%,0.39155
+OMN,no parameter uncertainty,0.41705
+BHR,base,0.864
+BHR,GDP growth 0%,0.854
+BHR,GDP growth 5%,0.8698
+BHR,asset return 3%,0.854
+BHR,no parameter uncertainty,0.8685

@@ -1,0 +1,38 @@
+{
+  "brent_latest": 102.0180952380952,
+  "brent_ytd": 88.70812145262146,
+  "paths": 20000,
+  "years": 10,
+  "buffers_bn": {
+    "SAU": {
+      "reserves only": 505.163993094995,
+      "reserves + 25% of fund assets": 755.163993094995,
+      "reserves + 100% of fund assets": 1505.163993094995
+    },
+    "ARE": {
+      "reserves only": 292.319262021321,
+      "reserves + 25% of fund assets": 567.319262021321,
+      "reserves + 100% of fund assets": 1392.319262021321
+    },
+    "QAT": {
+      "reserves only": 55.8473168242017,
+      "reserves + 25% of fund assets": 180.8473168242017,
+      "reserves + 100% of fund assets": 555.8473168242017
+    },
+    "KWT": {
+      "reserves only": 51.7379632915741,
+      "reserves + 25% of fund assets": 301.7379632915741,
+      "reserves + 100% of fund assets": 1051.737963291574
+    },
+    "OMN": {
+      "reserves only": 18.2865261179972,
+      "reserves + 25% of fund assets": 18.2865261179972,
+      "reserves + 100% of fund assets": 18.2865261179972
+    },
+    "BHR": {
+      "reserves only": 5.2697943005236905,
+      "reserves + 25% of fund assets": 5.2697943005236905,
+      "reserves + 100% of fund assets": 5.2697943005236905
+    }
+  }
+}
